@@ -63,7 +63,7 @@ O que uso em projeto de cliente — escolho a stack pelo problema, não pela mod
 | Projeto | Descrição | Tech |
 |---|---|---|
 | **[resolvixsolucoes-site](https://github.com/resolvixsolucoes/resolvixsolucoes-site)** | Site oficial da Resolvix — landing e página `/links`. Static export com SEO local (JSON-LD `LocalBusiness`), OG image gerada em build, acessibilidade AA e Plausible cookieless. | `TypeScript` · `Next.js 16` · `React 19` · `Tailwind CSS 4` |
-| **[igreja-base](https://github.com/resolvixsolucoes/igreja-base)** | Plataforma administrativa para igrejas extraída de código em produção. Membros, ministérios, financeiro, LMS de cursos, check-in por QR e bot WhatsApp de visitantes. PWA offline-friendly, RLS granular por permissão. [Demo](https://igreja-base.vercel.app) — `demo@resolvixsolucoes.com.br` / `demo123456`. | `JavaScript` · `Supabase` · `PostgreSQL` · `Deno Edge` · `PWA` |
+| **[igreja-base](https://github.com/resolvixsolucoes/igreja-base)** | Base pública extraída de plataforma em uso numa igreja do Vale do Aço. Membros, ministérios, financeiro, LMS de cursos, check-in por QR e bot WhatsApp de visitantes. PWA offline-friendly, RLS granular por permissão. Publicada como semente pra outras comunidades usarem como base. [Demo](https://igreja-base.vercel.app) — `demo@resolvixsolucoes.com.br` / `demo123456`. | `JavaScript` · `Supabase` · `PostgreSQL` · `Deno Edge` · `PWA` |
 
 ---
 
