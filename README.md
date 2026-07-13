@@ -1,89 +1,64 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
 <p align="center">
-  <img src="Banner%20Github.png" alt="Banner Resolvix Soluções Digitais" width="100%" />
-</p>
-
-
----
-
-# 💻 Resolvix Soluções Digitais
-
-> **Soluções digitais que funcionam.**
-> Do ❌ ao ✅. Simples assim.
-
----
-
-## 🚀 O que fazemos
-
-Transformamos problemas complexos em soluções digitais simples, eficientes e escaláveis.
-
-| Serviço | Descrição |
-|---------|-----------|
-| 🌐 **Sites** | Institucionais, landing pages e e-commerce |
-| ⚙️ **Sistemas** | Aplicações web sob medida para o seu negócio |
-| 🤖 **Automações** | Fluxos inteligentes que economizam tempo e dinheiro |
-
----
-
-## 🛠️ Nossa Stack
-
-### Front-end
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
-### Back-end
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### DevOps & Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="Banner%20Github.png" alt="Resolvix Soluções — Do X ao ✓" width="100%" />
 </p>
 
 ---
 
-## 📦 Projetos em destaque
+# Resolvix Soluções
 
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| 🔗 [Projeto 1](link) | Breve descrição do projeto | `React` `Node` |
-| 🔗 [Projeto 2](link) | Breve descrição do projeto | `Python` `MySQL` |
-| 🔗 [Projeto 3](link) | Breve descrição do projeto | `Next.js` `MongoDB` |
+> **Do X ao ✓. Simples assim.**
+
+Desenvolvimento de sites, sistemas web e automações sob medida para micro
+e pequenas empresas e profissionais liberais de **Ipatinga-MG** e do
+**Vale do Aço**.
+
+- Site: **<https://resolvixsolucoes.com.br>**
+- Links: **<https://resolvixsolucoes.com.br/links>**
 
 ---
 
-## 📫 Fale com a gente
+## O que eu faço
+
+| Serviço | O que é |
+|---|---|
+| **Sites institucionais** | Sua empresa apresentada com clareza, rápida e encontrável |
+| **Landing pages** | Uma página, um objetivo: captar contato ou vender algo específico |
+| **Sistemas web sob medida** | O sistema que o seu processo precisa — não o que cabe num modelo pronto |
+| **Automações e integrações (API)** | Fazer seus sistemas conversarem, pra o trabalho manual sumir |
+| **Manutenção e suporte** | Seu site no ar, atualizado e seguro |
+
+---
+
+## Stack
 
 <p>
-  <a href="https://instagram.com/resolvixsolucoes">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5531991437500">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:contato@resolvix.com.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
+
+Só o que uso em projeto de cliente. Sem lista inflada.
+
+---
+
+## Repositórios em destaque
+
+- **[resolvixsolucoes-site](https://github.com/resolvixsolucoes/resolvixsolucoes-site)** — o site da Resolvix, construído por mim. É a primeira prova pública.
+
+---
+
+## Contato
+
+- **WhatsApp:** <https://wa.me/5531991437500>
+- **E-mail:** <contato@resolvixsolucoes.com.br>
+- **Instagram:** [@resolvixsolucoes](https://instagram.com/resolvixsolucoes)
+- **Onde:** Ipatinga-MG · atendimento em todo o Vale do Aço
 
 ---
 
 <p align="center">
-  <strong>💻 Resolvix — Soluções digitais que funcionam.</strong><br>
-  <em>Do ❌ ao ✅. Simples assim.</em>
+  <em>Do X ao ✓. Simples assim.</em>
 </p>
