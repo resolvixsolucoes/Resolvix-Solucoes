@@ -44,9 +44,11 @@ Só o que uso em projeto de cliente. Sem lista inflada.
 
 ---
 
-## Repositórios em destaque
+## Projetos em destaque
 
-- **[resolvixsolucoes-site](https://github.com/resolvixsolucoes/resolvixsolucoes-site)** — o site da Resolvix, construído por mim. É a primeira prova pública.
+| Projeto | Descrição | Tech |
+|---|---|---|
+| **[resolvixsolucoes-site](https://github.com/resolvixsolucoes/resolvixsolucoes-site)** | Site oficial da Resolvix — landing e página `/links`. Static export com SEO local (JSON-LD `LocalBusiness`), OG image gerada em build, acessibilidade AA e Plausible cookieless. | `TypeScript` · `Next.js 16` · `React 19` · `Tailwind CSS 4` |
 
 ---
 
