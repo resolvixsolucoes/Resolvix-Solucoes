@@ -73,7 +73,7 @@ Transformamos problemas complexos em soluções digitais simples, eficientes e e
   <a href="https://instagram.com/resolvixsolucoes">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/5531999999999">
+  <a href="https://wa.me/5531991437500">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:contato@resolvix.com.br">
